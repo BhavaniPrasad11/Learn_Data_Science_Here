@@ -1,9 +1,6 @@
 # Learn_Data_Science_Here
 Learn data science on your own with ease by making use of the links I've shared.
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
