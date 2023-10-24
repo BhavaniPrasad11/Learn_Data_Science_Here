@@ -18,3 +18,5 @@
 - [Matplotlib & Seaborn](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Matplotlib%26Seaborn.ipynb)
 - [Matplotlib Cheat Sheet](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/matplotlib%20tips.pdf)
 - [Seaborn Cheat Sheet](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Seaborn.pdf)
+## Sample EDA
+- [Walmart](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/tree/main/Python%20Libraries/Walmart%20EDA)
