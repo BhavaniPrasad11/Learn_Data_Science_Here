@@ -8,12 +8,10 @@
 #### All text and CSV/TSV files
 - [Files to practice](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/tree/main/Python%20Libraries/All_text_and_CSV_files)
 #### NumPy
-- [NumPy Notes](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/NumPy_Notes.ipynb)
+- [NumPy Notes](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/NumPy_Notes.pdf)
 - [NumPy 100 Examples](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/%2B100%20Important%20Numpy%20Operations.pdf)
 #### Pandas
-- [Pandas - 1](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas-part%201.ipynb)
-- [Pandas - 2](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas-part2.ipynb)
-- [Pandas - 3](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas-part3.ipynb)
+- [Pandas Notes](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas_Notes.pdf)
 - [Pandas cheat sheet](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas.pdf)
 #### Matplotlib & Seaborn
 - [Matplotlib & Seaborn](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Matplotlib%26Seaborn.ipynb)
