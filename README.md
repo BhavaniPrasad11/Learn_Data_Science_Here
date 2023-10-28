@@ -14,7 +14,7 @@
 - [Pandas Notes](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas_Notes.pdf)
 - [Pandas cheat sheet](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Pandas.pdf)
 #### Matplotlib & Seaborn
-- [Matplotlib & Seaborn](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Matplotlib%26Seaborn.ipynb)
+- [Matplotlib & Seaborn](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Matplotlib_%26_Seaborn.pdf)
 - [Matplotlib Cheat Sheet](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/matplotlib%20tips.pdf)
 - [Seaborn Cheat Sheet](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/Seaborn.pdf)
 - [Data Visualisation Guide](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/data-visualization-guide.ipynb)
