@@ -20,7 +20,8 @@
 - [Data Visualisation Guide](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/blob/main/Python%20Libraries/data-visualization-guide.ipynb)
 ## Sample EDA
 - [Walmart](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/tree/main/Python%20Libraries/Walmart%20EDA)
-
+## Tableau
+- [Getting Started with Tableau Desktop](https://github.com/BhavaniPrasad11/Learn_Data_Science_Here/tree/main/Tableau/Tableau%20Elearning%20Docs/Getting%20Started%20with%20Tableau%20Desktop)
 
 <p align="left">
 </p>
